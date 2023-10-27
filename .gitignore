@@ -1,0 +1,14 @@
+.vs/
+.idea/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Releases/
+Saved/
+*.dll
+*.pdb
+*.exp
+*.response
+*.res
+
